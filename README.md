@@ -13,6 +13,7 @@ The notebooks clean and combine rent data with income and demographic data, then
 |   `-- dmv_rent_income_dataset.csv          # Combined rent, income, and DMV area data
 |-- notebooks/
 |   |-- rent_income_project.ipynb            # Data collection, cleaning, and combining notebook
+|   |-- mixed_effects_model.ipynb            # Multilevel modeling across DC, MD, and VA
 |   |-- regression_lasso_notebook.ipynb      # Regression and Lasso modeling notebook
 |   `-- regression_lasso_notebook_with_visualization.ipynb  # Modeling notebook with visualizations
 `-- README.md                               # Project overview and repo structure
